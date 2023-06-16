@@ -1,1 +1,1 @@
-# This repo is just for uploading dummy images and reuse them for demos.
+# This repo is just for uploading dummy file and reuse them for demos.
